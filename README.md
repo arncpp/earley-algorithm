@@ -44,7 +44,6 @@ S <span class="hljs-keyword">aS</span>
 S a
 S <span class="hljs-keyword">bS</span>
 baaaaaaaaaaaaaaaa
-
 Output:
 YES
 
@@ -54,7 +53,6 @@ S <span class="hljs-keyword">aS</span>
 S     <span class="hljs-comment">// можно заменить на S 1</span>
 S ba
 abaaaaaaaaaaaaaaaa
-
 Output:
 <span class="hljs-keyword">NO</span>
 </code></pre><p>Вывод:
