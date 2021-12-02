@@ -9,19 +9,23 @@
 <strong>2. Во время установки <em>обязательно</em> поставьте галочку &quot;Add Python 3.x to PATH&quot;.</strong>
 <img src="https://python-scripts.com/wp-content/uploads/2018/06/win-install-dialog.40e3ded144b0.png" alt="add path screenshot"></p>
 <p><strong>3. Когда установка закончится запустите консоль нажать комбинацию Win + R.
-<p><strong>4. Установите pytest, если хотите увидеть покрытие тестами.
+<p><strong>4. Установите pytest, если хотите посмотреть покрытие тестами.
 </details>
-<strong>Второй этап: скачивание и запуск проекта.
+
+<details><summary>Второй этап: скачивание и запуск проекта.</summary>
 <p><strong>1. Скачайте проект с github любым удобным для вас способом.</strong></p>
 <p><strong>2. В консоли перейдите в папку. 
 <p><strong>3. Запустите проект.
-<details>
-<summary>Команды, которые нужно выполнить, для запуска через консоль:</summary>
+</details>
+
+
+
+<details><summary>Команды, которые нужно выполнить, для запуска через консоль:</summary>
 <p><code>git clone https://github.com/arncpp/earley-algorithm.git</p>
 <p><code>pip install pytest</code></p>
 <p><code>cd</code></p>
 <p><code>python main.py</code></p></details>
-
+</details>
 <h1 id="-">Использование алгоритма</h1>
 <h3 id="-">Параметры ввода:</h3>
 <ol>
@@ -55,4 +59,5 @@ Output:
 <span class="hljs-keyword">NO</span>
 </code></pre><p>Вывод:
 YES - если слово выводится в КС-грамматике, NO - если не выводится.</p>
+<p><strong>Запуск тестов с помощью команды <code>coverage run -m pytest .</code></strong></p>
 
