@@ -47,6 +47,8 @@ baaaaaaaaaaaaaaaa
 Output:
 YES
 
+
+
 <span class="hljs-keyword">Input</span>:
 3
 S <span class="hljs-keyword">aS</span>
