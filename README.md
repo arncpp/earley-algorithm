@@ -21,7 +21,7 @@
 
 
 <details><summary>Команды, которые нужно выполнить, для запуска через консоль:</summary>
-<p><code>git clone https://github.com/arncpp/earley-algorithm.git</p>
+<p><code>git clone https://github.com/arncpp/earley-algorithm.git</code></p>
 <p><code>pip install pytest</code></p>
 <p><code>cd</code></p>
 <p><code>python main.py</code></p></details>
